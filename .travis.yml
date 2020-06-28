@@ -33,4 +33,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: github.com/nuxseme/summary.git
+   - GH_REF: github.com/nuxseme/summary-gitbook.git
